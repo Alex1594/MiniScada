@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="cloudpss-sdk">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../../cloudpss-sdk.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
